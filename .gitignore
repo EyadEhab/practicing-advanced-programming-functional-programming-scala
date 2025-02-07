@@ -1,3 +1,4 @@
 *.class
 /.scala-build/
 /.metals/
+/.vscode/
